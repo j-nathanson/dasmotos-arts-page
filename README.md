@@ -21,9 +21,12 @@ The purpose is recreate a simple landing page for an art store following specifi
 
 ## Screenshots
 
-Given Spec
+### Given Spec
+
 ![Spec](./images/spec.jpeg)
-Replicated results
+
+### Replicated results
+
 ![Replication](./images/final-results.png)
 
 ## Room for Improvement
